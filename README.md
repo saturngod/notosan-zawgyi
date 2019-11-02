@@ -1,0 +1,1 @@
+Use with [Noto Tools](https://github.com/googlefonts/nototools) to merge Notosan Zawgyi and Noto San English font files.
